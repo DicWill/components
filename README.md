@@ -11,8 +11,8 @@
 ### datepicker
 
 > 通过原生JavaScript完成一个日期选择器组件的开发。主要包括datepicker静态结构的编写、日历数据的计划读取、组件的渲染以及组建事件的处理。
-> [演示demo](https://lusg02.github.io/components/datepicker/index.html)
-具体介绍，请参看[开发文档]()。
+
+具体介绍，请参看[开发文档](https://lusg02.github.io/components/datepicker/README.md)。
 
 #### 预览
 
