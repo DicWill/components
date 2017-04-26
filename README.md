@@ -16,7 +16,7 @@
 
 #### 预览
 
-![datepicker组件预览](https://github.com/lusg02/components/tree/master/datepicker/preview/datepicker.gif)
+![datepicker组件预览](https://lusg02.github.io/components/datepicker/preview/datepicker.gif)
 
 ### 参考链接
 [1] 慕课网，[DatePicker组件开发](http://www.imooc.com/learn/820)
