@@ -12,7 +12,7 @@
 
 > 通过原生JavaScript完成一个日期选择器组件的开发。主要包括datepicker静态结构的编写、日历数据的计划读取、组件的渲染以及组建事件的处理。
 
-具体介绍，请参看[开发文档](https://lusg02.github.io/components/datepicker/README.md)。
+具体介绍，请参看[开发文档](https://github.com/lusg02/components/blob/master/datepicker/README.md#datepicker-开发文档)。
 
 #### 预览
 
