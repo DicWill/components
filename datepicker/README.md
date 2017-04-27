@@ -60,7 +60,7 @@
   
   datepicker.buildUi = function () {
     // 构建组件的静态结构
-  }；
+  };
   
   datepicker.render = function () {
     // 渲染组件DOM结构
