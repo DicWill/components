@@ -50,10 +50,10 @@ a {
 
 .poster-prev-btn {
 	left: 0;
-	background: url("images/btn_l.png") no-repeat center;
+	background: url("../images/btn_l.png") no-repeat center;
 }
 
 .poster-next-btn {
 	right: 0;
-	background: url("images/btn_r.png") no-repeat center;
+	background: url("../images/btn_r.png") no-repeat center;
 }
