@@ -27,6 +27,8 @@
 
 [演示demo](https://lusg02.github.io/components/lightbox/lightbox.html)
 
+具体使用方法，请参看[开发文档](https://github.com/lusg02/components/blob/master/carousel/README.md#carousel-开发文档)。
+
 ## posters
 > 原生JS和CSS3实现电影海报画廊
 
@@ -38,4 +40,4 @@
 
 [演示demo](https://lusg02.github.io/components/carousel/index.html)
 
-具体介绍，请参看[开发文档](https://github.com/lusg02/components/blob/master/carousel/README.md#carousel-开发文档)。
+具体使用方法，请参看[开发文档](https://github.com/lusg02/components/blob/master/carousel/README.md#carousel-开发文档)。
