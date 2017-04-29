@@ -32,8 +32,10 @@
 
 [演示demo](https://lusg02.github.io/components/posters/index.html)
 
-### lightbox
+### carousel
 
 > 使用JS面向对象，jQuery开发的一款图片展示组件，实现旋转木马特效
 
 [演示demo](https://lusg02.github.io/components/carousel/index.html)
+
+具体介绍，请参看[开发文档](https://github.com/lusg02/components/blob/master/carousel/README.md#carousel-开发文档)。
