@@ -31,3 +31,9 @@
 > 原生JS和CSS3实现电影海报画廊
 
 [演示demo](https://lusg02.github.io/components/posters/index.html)
+
+### lightbox
+
+> 使用JS面向对象，jQuery开发的一款图片展示组件，实现旋转木马特效
+
+[演示demo](https://lusg02.github.io/components/carousel/index.html)
