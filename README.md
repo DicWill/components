@@ -34,6 +34,8 @@
 
 [演示demo](https://lusg02.github.io/components/posters/index.html)
 
+[开发文档](https://github.com/lusg02/components/tree/master/posters#jscss3-实现散列海报画廊)
+
 ### carousel
 
 > 使用JS面向对象，jQuery开发的一款图片展示组件，实现旋转木马特效
